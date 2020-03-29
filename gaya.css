@@ -1,0 +1,36 @@
+#box {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 60vh;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.red {
+    background-color: red;
+    font-size: 50px;
+    font-family: monospace;
+    color: wheat;
+}
+
+.blue {
+    background-color: blue;
+    font-size: 50px;
+    font-family: monospace;
+    color: wheat;
+}
+
+.green {
+    background-color: green;
+    font-size: 50px;
+    font-family: monospace;
+    color: wheat;
+}
